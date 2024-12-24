@@ -12,10 +12,10 @@ In Cleaning We just need to handle the null value of the order details file rati
 # Merging Of the data:
 After the Cleaning of the data We need to merge all three files using pandas merge function handling the duplicacy of the columns
 # User Behavior and Order Analysis
--Analyze user behavior, cooking preferences, and order trends to generate actionable business insights.
--Relationship Between Cooking Sessions, Orders, Dishes and Amount
--Identifying popular dishes
--Demographic Insights: Analyze order trends by Favourite Meal, location, age and username total orders as per differenct location 
+- Analyze user behavior, cooking preferences, and order trends to generate actionable business insights.
+- Relationship Between Cooking Sessions, Orders, Dishes and Amount
+- Identifying popular dishes
+- Demographic Insights: Analyze order trends by Favourite Meal, location, age and username total orders as per differenct location 
 
 ## Findings
 - Most popular dish: Spaghetti.
@@ -24,14 +24,14 @@ After the Cleaning of the data We need to merge all three files using pandas mer
 
 ## Summarize findings in a report:
 ## Insights:
--Most popular dishes by frequency.
--Age groups or locations and favourite dishes contributing to higher orders.
--The correlation between session ratings and order amounts.
+- Most popular dishes by frequency.
+- Age groups or locations and favourite dishes contributing to higher orders.
+- The correlation between session ratings and order amounts.
 ## Recommendations:
--Focus marketing on popular dishes and high-order demographics.
--Improve session experiences to boost order rates.
--Promote top dishes with targeted ads.
--Enhance session experiences to improve customer retention.
+- Focus marketing on popular dishes and high-order demographics.
+- Improve session experiences to boost order rates.
+- Promote top dishes with targeted ads.
+- Enhance session experiences to improve customer retention.
 
 # 2. Using Excel to Solve the problem:
 
@@ -43,18 +43,18 @@ Merge the all sheet of excel to Merge sheet named Where Using lookup to #**Merge
 
 # Analyze Relationships:
 Creating  a PivotTables to identify relationships and using charts For the visualization using 3 different pivot tables:
-1. Pivot Named as relationship which identifies the Relationship Between Cooking Sessions, Orders, Dishes and Amount.
-2. Pivot table named as Popular Dishes which identifies the total ordered dish which dish ordered the most.
-3. Pivot Table Named as Demographics Insights Shows us the Relationships of Favourite Meal, Locations With respect to the total orders
+-  Pivot Named as relationship which identifies the Relationship Between Cooking Sessions, Orders, Dishes and Amount.
+-  Pivot table named as Popular Dishes which identifies the total ordered dish which dish ordered the most.
+-  Pivot Table Named as Demographics Insights Shows us the Relationships of Favourite Meal, Locations With respect to the total orders
 
 # Insights and Recommendations
 # Summarize findings in a new sheet or Word document:
 # Insights:
-1.Identify the most popular dishes orderd (based on the bar chart).				
-2. List top-performing demographics (based on PivotTable analysis).			
+- Identify the most popular dishes orderd (based on the bar chart).				
+-  List top-performing demographics (based on PivotTable analysis).			
 
 # Recommendations				
-Focus on marketing popular dishes to high-order demographics.				
-Improve cooking sessions with low ratings to boost engagement.				
+- Focus on marketing popular dishes to high-order demographics.				
+- Improve cooking sessions with low ratings to boost engagement.				
 
 
