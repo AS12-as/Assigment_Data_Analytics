@@ -39,7 +39,7 @@ After the Cleaning of the data We need to merge all three files using pandas mer
 In Cleaning We just need to handle the null value of the order details file rating column by taking the average value
 
 # Merging the Data:
-Merge the all sheet of excel to Merge sheet named Where Using lookup to #**Merge**# all the data of 3 files together
+Merge the all sheet of excel to Merge sheet named Where Using Vlookup to #**Merge**# all the data of 3 files together
 
 # Analyze Relationships:
 Creating  a PivotTables to identify relationships and using charts For the visualization using 3 different pivot tables:
