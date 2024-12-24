@@ -12,13 +12,10 @@ In Cleaning We just need to handle the null value of the order details file rati
 # Merging Of the data:
 After the Cleaning of the data We need to merge all three files using pandas merge function handling the duplicacy of the columns
 # User Behavior and Order Analysis
-Analyze user behavior, cooking preferences, and order trends to generate actionable business insights.
-Relationship Between Cooking Sessions, Orders, Dishes and Amount
-identifying popular dishes
-Demographic Insights: Analyze order trends by Favourite Meal, location, age and username total orders as per differenct location 
-## Files
-- `data/`: Contains cleaned datasets.
-- `scripts/`: Python scripts for cleaning, analysis, and visualization.
+-Analyze user behavior, cooking preferences, and order trends to generate actionable business insights.
+-Relationship Between Cooking Sessions, Orders, Dishes and Amount
+-Identifying popular dishes
+-Demographic Insights: Analyze order trends by Favourite Meal, location, age and username total orders as per differenct location 
 
 ## Findings
 - Most popular dish: Spaghetti.
@@ -27,16 +24,17 @@ Demographic Insights: Analyze order trends by Favourite Meal, location, age and 
 
 ## Summarize findings in a report:
 ## Insights:
-Most popular dishes by frequency.
-Key age groups or locations and favourite dishes contributing to higher orders.
-The correlation between session ratings and order amounts.
+-Most popular dishes by frequency.
+-Age groups or locations and favourite dishes contributing to higher orders.
+-The correlation between session ratings and order amounts.
 ## Recommendations:
-Focus marketing on popular dishes and high-order demographics.
-Improve session experiences to boost order rates.
-Promote top dishes with targeted ads.
-Enhance session experiences to improve customer retention.
+-Focus marketing on popular dishes and high-order demographics.
+-Improve session experiences to boost order rates.
+-Promote top dishes with targeted ads.
+-Enhance session experiences to improve customer retention.
 
-2. Using Excel to Solve the problem:
+# 2. Using Excel to Solve the problem:
+
 # Cleaning the Data:
 In Cleaning We just need to handle the null value of the order details file rating column by taking the average value
 
