@@ -5,7 +5,8 @@ I have Completed The Project by solving the Problem In 2 Ways:
 1. Using Python
 2. Using Excel
 
-1. Using Python to Solve the problem:
+# Using Python to Solve the problem:
+
 # Cleaning Of the Data:
 In Cleaning We just need to handle the null value of the order details file rating column by taking the mean value
 # Merging Of the data:
