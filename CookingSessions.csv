@@ -1,0 +1,17 @@
+Session ID,User ID,Dish Name,Meal Type,Session Start,Session End,Duration (mins),Session Rating
+S001,U001,Spaghetti,Dinner,12/1/2024 19:00,12/1/2024 19:30,30,4.5
+S002,U002,Caesar Salad,Lunch,12/1/2024 12:00,12/1/2024 12:20,20,4
+S003,U003,Grilled Chicken,Dinner,12/2/2024 19:30,12/2/2024 20:10,40,4.8
+S004,U001,Pancakes,Breakfast,12/2/2024 7:30,12/2/2024 8:00,30,4.2
+S005,U004,Caesar Salad,Lunch,12/3/2024 13:00,12/3/2024 13:15,15,4.7
+S006,U002,Spaghetti,Dinner,12/3/2024 18:30,12/3/2024 19:00,30,4.3
+S007,U005,Grilled Chicken,Dinner,12/4/2024 18:00,12/4/2024 18:45,45,4.6
+S008,U003,Veggie Burger,Lunch,12/4/2024 13:30,12/4/2024 13:50,20,4.4
+S009,U001,Grilled Chicken,Dinner,12/5/2024 19:00,12/5/2024 19:40,40,4.9
+S010,U002,Oatmeal,Breakfast,12/5/2024 7:00,12/5/2024 7:10,10,4.1
+S011,U003,Pancakes,Breakfast,12/6/2024 8:00,12/6/2024 8:30,30,4.6
+S012,U004,Spaghetti,Dinner,12/6/2024 19:00,12/6/2024 19:40,40,4.7
+S013,U005,Caesar Salad,Lunch,12/7/2024 12:30,12/7/2024 13:00,30,4.4
+S014,U006,Grilled Chicken,Dinner,12/7/2024 18:00,12/7/2024 18:45,45,4.8
+S015,U007,Spaghetti,Dinner,12/8/2024 19:30,12/8/2024 20:10,40,5
+S016,U008,Veggie Burger,Lunch,12/8/2024 13:30,12/8/2024 13:50,20,4.3
