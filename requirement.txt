@@ -1,0 +1,8 @@
+Requirements to run this File:
+
+Python 
+NumPy 
+Pandas
+Matplotlib
+Seaborn
+Microsoft Excel 
