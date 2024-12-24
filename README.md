@@ -48,7 +48,7 @@ Creating  a PivotTables to identify relationships and using charts For the visua
 -  Pivot Table Named as Demographics Insights Shows us the Relationships of Favourite Meal, Locations With respect to the total orders
 
 # Insights and Recommendations
-# Summarize findings in a new sheet or Word document:
+# Summarize findings in a new sheet document:
 # Insights:
 - Identify the most popular dishes orderd (based on the bar chart).				
 -  List top-performing demographics (based on PivotTable analysis).			
